@@ -1,0 +1,13 @@
+{
+    "manifest": [
+        {"id": "reelLandscapeNormalLayout", "src": "assets/layouts/reel/reelLandscapeNormalLayout.json", "type": "json" },
+        {"id": "reelLandscape4_3Layout",    "src": "assets/layouts/reel/reelLandscape4_3Layout.json", "type": "json" },
+        {"id": "reelPortraitNormalLayout",  "src": "assets/layouts/reel/reelPortraitNormalLayout.json", "type": "json" },
+        {"id": "reelPortrait4_3Layout",     "src": "assets/layouts/reel/reelPortrait4_3Layout.json", "type": "json" },
+
+        {"id": "uiLandscapeNormalLayout", "src": "assets/layouts/ui/uiLandscapeNormalLayout.json", "type": "json" },
+        {"id": "uiLandscape4_3Layout",    "src": "assets/layouts/ui/uiLandscape4_3Layout.json", "type": "json" },
+        {"id": "uiPortraitNormalLayout",  "src": "assets/layouts/ui/uiPortraitNormalLayout.json", "type": "json" },
+        {"id": "uiPortrait4_3Layout",     "src": "assets/layouts/ui/uiPortrait4_3Layout.json", "type": "json" }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "manifest": [
+        {"id": "hv1_symbol", "src": "assets/images/hv1_symbol.png", "type": "image"},
+        {"id": "hv2_symbol", "src": "assets/images/hv2_symbol.png", "type": "image"},
+        {"id": "hv3_symbol", "src": "assets/images/hv3_symbol.png", "type": "image"},
+        {"id": "hv4_symbol", "src": "assets/images/hv4_symbol.png", "type": "image"},
+
+        {"id": "lv1_symbol", "src": "assets/images/lv1_symbol.png", "type": "image"},
+        {"id": "lv2_symbol", "src": "assets/images/lv2_symbol.png", "type": "image"},
+        {"id": "lv3_symbol", "src": "assets/images/lv3_symbol.png", "type": "image"},
+        {"id": "lv4_symbol", "src": "assets/images/lv4_symbol.png", "type": "image"},
+
+        {"id": "spin_button", "src": "assets/images/spin_button.png", "type": "image"}
+    ]
+}

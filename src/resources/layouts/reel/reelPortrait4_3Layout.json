@@ -1,0 +1,28 @@
+{
+    "children": [
+        {
+            "pathToContent": "reelContainer",
+            "x": 0,
+            "y": 0,
+            "scaleX": 1.1,
+            "scaleY": 1.1,
+            "pivotX": 255,
+            "pivotY": 200,
+            "verticalAlign": "MIDDLE",
+            "horizontalAlign": "CENTER"
+        },
+        {
+            "pathToContent": "frontLayerContainer",
+            "x": 0,
+            "y": 0,
+            "scaleX": 1.1,
+            "scaleY": 1.1,
+            "pivotX": 255,
+            "pivotY": 200,
+            "verticalAlign": "MIDDLE",
+            "horizontalAlign": "CENTER"
+        }
+    ],
+    "scaleWidthRef": 768,
+    "scaleHeightRef": 1024
+}

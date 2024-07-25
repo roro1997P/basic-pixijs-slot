@@ -1,0 +1,28 @@
+{
+    "children": [
+        {
+            "pathToContent": "spinButton",
+            "x": 0,
+            "y": 0,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "pivotX": 130,
+            "pivotY": -175,
+            "verticalAlign": "MIDDLE",
+            "horizontalAlign": "CENTER"
+        },
+        {
+            "pathToContent": "totalWinContainer",
+            "x": 0,
+            "y": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "pivotX": 0,
+            "pivotY": -320,
+            "verticalAlign": "MIDDLE",
+            "horizontalAlign": "CENTER"
+        }
+    ],
+    "scaleWidthRef": 1024,
+    "scaleHeightRef": 768
+}

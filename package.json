@@ -1,0 +1,31 @@
+{
+  "name": "slot-game",
+  "author": "PachecoRodrigo97@hotmail.com",
+  "description": "",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "webpack-dev-server --hot --env webpackFile=dev --mode=development"
+  },
+  "resolutions": {
+    "pixi.js": "7.1.4"
+  },
+  "dependencies": {
+    "signals": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^2.0.46",
+    "@types/signals": "0.0.17",
+    "gsap": "^3.2.6",
+    "pixi.js": "^7.1.4",
+    "webpack": "^5.88.2",
+    "webpack-merge": "^5.9.0",
+    "webpack-bundle-analyzer": "^4.10.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.6.0",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.2.2"
+  }
+}
