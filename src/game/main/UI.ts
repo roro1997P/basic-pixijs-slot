@@ -22,7 +22,7 @@ export class UI extends State {
         const totalText = new PIXI.Text("TOTAL WIN: XXX");
         totalText.pivot.set(totalText.width * 0.5, totalText.height * 0.5);
         totalText.name = "totalText";
-        // totalText.alpha = 0;
+        totalText.alpha = 0;
         this.totalWinContainer.addChild(totalText);
         
         this.button = PIXI.Sprite.from("spin_button");
