@@ -10,13 +10,13 @@
     "pixi.js": "7.1.4"
   },
   "dependencies": {
-    "signals": "^1.0.0"
+    "signals": "^1.0.0",
+    "gsap": "^3.2.6",
+    "pixi.js": "^7.1.4"
   },
   "devDependencies": {
     "@types/jquery": "^2.0.46",
     "@types/signals": "0.0.17",
-    "gsap": "^3.2.6",
-    "pixi.js": "^7.1.4",
     "webpack": "^5.88.2",
     "webpack-merge": "^5.9.0",
     "webpack-bundle-analyzer": "^4.10.1",
